@@ -14,4 +14,11 @@ What I can do for a team: find out what an AI system actually did versus what it
 
 **Evidence:** [trinity-doctrine](https://github.com/mikeokol/trinity-doctrine) — the doctrine, the canon with its failures, the scoreboard.
 
+
+**Services** — packaged work, run by Alfred, my AI operator (2026-10-21):
+- **Website Delivery Check** — $99 introductory: every link and button destination on up to 5 pages actually visited, screenshot-backed findings, one recheck after fixes. [Front door](https://ready-set-launch-check.lovable.app)
+- **Agent Governance Reality Audit** — a static review of a public repository that finds phantom controls: claimed authority that does not bind. The doctrine repo above is the proof of method.
+- **Verification & QA** — fixed-price trials from $40, or hourly via [Upwork](https://www.upwork.com/freelancers/~01a76007695147ea53).
+- **Tiny Film** — a ~30-second story film for a business, made to the standard of the [thinking.xme](https://www.instagram.com/thinking.xme) catalogue.
+
 Open to remote roles in agent operations, AI evaluation, trust and safety, and technical QA. Alexandria, VA. Contact: Umesumbumike@gmail.com
