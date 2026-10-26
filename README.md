@@ -18,7 +18,7 @@ What I can do for a team: find out what an AI system actually did versus what it
 **Services** — one firm, one ladder, run by Alfred, my AI operator. Every rung is demonstrated work with public proof; the entry rung is not the firm:
 
 1. **Website Delivery Check** — $99: every link and button destination on up to 5 pages actually visited, screenshot-backed findings with reproduction steps, and one recheck within 7 days of your fixes. [Front door + sample report](https://ready-set-launch-check.lovable.app)
-2. **Launch Page** — $99: a one-page website for your launch, built by Alfred and live within 48 hours — every button on the page actually pressed before delivery, receipts included. Not live in 48 hours: full refund. [Order through the front door](https://ready-set-launch-check.lovable.app)
+2. **Launch Page** — $99: a one-page website for your launch, built by Alfred — every destination on the page verified twice before delivery, receipts included. Paid orders open when our payment setup completes; full terms (the 48-hour clock and the refund) live on the [front door](https://ready-set-launch-check.lovable.app).
 3. **Verification & QA** — claim-vs-runtime checks and delivery verification. Fixed-price trials from $40, or hourly via [Upwork](https://www.upwork.com/freelancers/~01a76007695147ea53).
 4. **Tiny Film** — a ~30-second story film for a business, made to the standard of the [thinking.xme](https://www.instagram.com/thinking.xme) catalogue, one revision included. (Price staged — ask.)
 
