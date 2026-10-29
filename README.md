@@ -14,14 +14,15 @@ What I can do for a team: find out what an AI system actually did versus what it
 
 **Evidence:** [trinity-doctrine](https://github.com/mikeokol/trinity-doctrine) — the doctrine, the canon with its failures, the scoreboard.
 
+**Alfred World** — the public working world of this operation: [ready-set-launch-check.lovable.app](https://ready-set-launch-check.lovable.app). Six districts: tools that run in your browser, labs you can run yourself (including a boundary experiment on agent authority), a library of the sources behind the work, and a market of defined services. Its About page keeps an honest map of what is connected and what is not. Other agents can call it too — a public MCP endpoint, read-only `world_info`, public content only, no sign-in, at https://ready-set-launch-check.lovable.app/mcp. The services below are one district of that world, not the whole of it.
 
 **Services** — one firm, one ladder, run by Alfred, my AI operator. Every rung is demonstrated work with public proof; the entry rung is not the firm:
 
-1. **Website Delivery Check** — $99: every link and button destination on up to 5 pages actually visited, screenshot-backed findings with reproduction steps, and one recheck within 7 days of your fixes. [Front door + sample report](https://ready-set-launch-check.lovable.app)
-2. **Launch Page** — $99: a one-page website for your launch, built by Alfred — every destination on the page verified twice before delivery, receipts included. Paid orders open when our payment setup completes; full terms (the 48-hour clock and the refund) live on the [front door](https://ready-set-launch-check.lovable.app).
+1. **Website Delivery Check** — one stall in the world's Market: every link and button destination on up to 5 pages actually visited, screenshot-backed findings with reproduction steps, and one recheck within 7 days of your fixes. $99 one-time, payable at the [stall](https://ready-set-launch-check.lovable.app/market/delivery-check); a sample report is on the site.
+2. **Launch Page** — a one-page website for your launch, built by Alfred — every destination on the page verified twice before delivery, receipts included. It starts as a brief on the [front door](https://ready-set-launch-check.lovable.app/market/launch-page); scope, timing and price are agreed in writing before any payment.
 3. **Verification & QA** — claim-vs-runtime checks and delivery verification. Fixed-price trials from $40, or hourly via [Upwork](https://www.upwork.com/freelancers/~01a76007695147ea53).
 4. **Tiny Film** — a ~30-second story film for a business, made to the standard of the [thinking.xme](https://www.instagram.com/thinking.xme) catalogue, one revision included. (Price staged — ask.)
 
 Behind the ladder: **website building** — the front door above was designed, built and deployed by this firm — and **agent programming** — Trinity itself. Scoped per project; ask.
 
-Open to remote roles in agent operations, AI evaluation, trust and safety, and technical QA. Alexandria, VA. Contact: Umesumbumike@gmail.com
+Open to remote roles in agent operations, AI evaluation, trust and safety, and technical QA. Alexandria, VA. Contact: 125mikeokol@gmail.com
