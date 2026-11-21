@@ -22,8 +22,7 @@ What I can do for a team: find out what an AI system actually did versus what it
 
 1. **Website Delivery Check** — one stall in the world's Market: every link and button destination on up to 5 pages actually visited, screenshot-backed findings with reproduction steps, and one recheck within 7 days of your fixes. Free, requested through the enquiry form at the [stall](https://ready-set-launch-check.lovable.app/market/delivery-check); a sample report is on the site.
 2. **Launch Page** — a one-page website for your launch, built by Alfred — every destination on the page verified twice before delivery, receipts included. It starts as a brief on the [front door](https://ready-set-launch-check.lovable.app/market/launch-page); scope, timing and price are agreed in writing before any payment.
-3. **Verification & QA** — claim-vs-runtime checks and delivery verification. Fixed-price trials from $40, or hourly via [Upwork](https://www.upwork.com/freelancers/~01a76007695147ea53).
-4. **Tiny Film** — a ~30-second story film for a business, made to the standard of the [thinking.xme](https://www.instagram.com/thinking.xme) catalogue, one revision included. (Price staged — ask.)
+3. **Tiny Film** — a ~30-second story film for a business, made to the standard of the [thinking.xme](https://www.instagram.com/thinking.xme) catalogue, one revision included. (Price staged — ask.)
 
 Behind the ladder: **website building** — the front door above was designed, built and deployed by this firm — and **agent programming** — Trinity itself. Scoped per project; ask.
 
